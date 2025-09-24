@@ -170,7 +170,7 @@ REQ-021: Підписка на сповіщення
 
 REQ-022: Де-авторизація користувача
 
-### 3.3 Quality of Service
+### 3.3 Quality of Service "non-functional requirements"
 
 #### 3.3.1 Performance
 * Час завантаження головної сторінки ≤ 3 сек
